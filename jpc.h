@@ -12,7 +12,13 @@
 
 #define 左小括弧 (
 #define 括弧閉じ )
+#define 左小括弧中括弧 {
+#define 括弧閉じ中括弧 }
 #define です ;
+
+#define プラスプラス ++
+#define 等号 =
+#define 読点 ,
 
 #define 零 0
 #define 一 1
@@ -24,3 +30,4 @@
 #define 七 7
 #define 八 8
 #define 九 9
+#define 十 10
